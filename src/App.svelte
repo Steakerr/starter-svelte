@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello Marko!</h1>
+	<h1>Hello I'am Marko!</h1>
 	<p>How are you? ;)</p>
 </main>
 
